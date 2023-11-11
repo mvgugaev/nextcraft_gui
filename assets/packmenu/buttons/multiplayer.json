@@ -1,0 +1,9 @@
+{
+	"x": -100,
+	"y": 24,
+	"width": 98,
+	"height": 20,
+	"langKey": "packmenu.multiplayer",
+	"action": "OPEN_GUI",
+	"data": "MULTIPLAYER"
+}

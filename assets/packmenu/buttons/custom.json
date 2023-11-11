@@ -1,0 +1,9 @@
+{
+	"x": 2,
+	"y": 24,
+	"width": 98,
+	"height": 20,
+	"langKey": "packmenu.connect",
+	"action": "CONNECT_TO_SERVER",
+	"data": "85.193.81.157:25566"
+}
